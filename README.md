@@ -1,7 +1,10 @@
 ```
+git clone git@github.com:n3tr/sample-ngx-auth.git
+
+cd sample-ngx-auth
+
 docker-compose build
 docker-compose up
-
 ```
 
 Request to
